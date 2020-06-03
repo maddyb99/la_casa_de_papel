@@ -37,6 +37,8 @@ The Eight= El Ocho
 
 ## The Protocols
 
+Protocolo = Protocol
+
 User Datagram Protocol = Protocolo de datagramas de usuario
 
 Transmission Control Protocol = Protocolo de Control de Transmisión
@@ -87,6 +89,8 @@ Send:
 In both these terminals, You can start typing to send message to the Professor.
 
 ## Other Useful Translations
+
+enviar : send
 
 dispara_y_olvida : fire_and_forget
 

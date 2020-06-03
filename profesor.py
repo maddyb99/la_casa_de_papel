@@ -1,5 +1,5 @@
-import protocolo_de_datagramas_de_usuario as UDP
-import protocolo_de_control_de_transmisión as TCP
+import protocolo.protocolo_de_datagramas_de_usuario as UDP
+import protocolo.protocolo_de_control_de_transmisión as TCP
 from os import system,getpid
 import termios
 import sys, tty

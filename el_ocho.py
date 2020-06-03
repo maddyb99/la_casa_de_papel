@@ -1,4 +1,4 @@
-from protocolo_de_datagramas_de_usuario import *
+from protocolo.protocolo_de_datagramas_de_usuario import *
 from os import system,getpid
 # from pancartas import El_Ocho
 
